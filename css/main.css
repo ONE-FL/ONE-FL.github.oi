@@ -3,7 +3,7 @@
   --content-bg-color: #f5f5f5;
   --card-bg-color: #f5f5f5;
   --text-color: #555;
-  --blockquote-color: #666;
+  --blockquote-color: #555;
   --link-color: #555;
   --link-hover-color: #222;
   --brand-color: #222;
@@ -1175,7 +1175,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #f0abff;
+  background: #b9410f;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2444,26 +2444,26 @@ hr {
   display: inline-block;
 }
 body {
-  background: url("https://ts1.cn.mm.bing.net/th/id/R-C.d19a2d11cb386f690ce9b8863d53a56c?rik=JXY5K3Cqv9TmXA&riu=http%3a%2f%2fp1.so.qhmsg.com%2ft01cb386f690ce9b886.jpg&ehk=jRKYecPgofEDXQqAKx5w%2f67mDTdedP%2bjKMZK%2fHNZyTw%3d&risl=&pid=ImgRaw&r=0");
+  background: url("https://pic.netbian.com/uploads/allimg/231031/005647-16986850072083.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 100% 100%;
 }
 .content-wrap {
-  opacity: 0.8;
+  opacity: 1;
 }
 .main-inner {
-  opacity: 0.8;
+  opacity: 1;
 }
 .sidebar {
-  opacity: 0.8;
+  opacity: 1;
 }
 .header-inner {
   background: rgba(255,255,255,0.8);
 }
 .popup {
-  opacity: 0.8;
+  opacity: 1;
 }
 .post {
   margin-top: 60px;
